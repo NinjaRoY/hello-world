@@ -1,2 +1,5 @@
 # hello-world
-Just another respository
+
+Hi guys,
+
+L0gic here i dont wanna reveal my name.
